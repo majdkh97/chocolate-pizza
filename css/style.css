@@ -1,0 +1,120 @@
+body {
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 50%;
+  }
+  header {
+    margin-bottom: 30px;
+  }
+  h2 {
+    font-size: 30px;
+  }
+  #logo-text {
+    display: inline-block;
+    margin-left: 5px;
+  }
+  nav {
+    float: right;
+  }
+  nav ul li {
+    display: inline-block;
+  }
+  .hr {
+    width: 100%;
+    height: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  #title-text {
+    margin-bottom: 30px;
+  }
+  #title-text span {
+    color: grey;
+    font-size: 15px;
+  }
+  #print {
+    float: right;
+  }
+  h1 {
+    font-size: 40px;
+    font-weight: bold;
+  }
+  #hero-image {
+    margin-bottom: 20px;
+  }
+  #main-text {
+    text-indent: 25px;
+    color: gray;
+  }
+  #main-text p {
+    margin-bottom: 30px;
+  }
+  #field-div1 {
+    position: absolute;
+    margin-top: 30px;
+    margin-right: 15px;
+  }
+  #field-div2 {
+    float: right;
+    margin-bottom: 150px;
+    margin-top: 30px;
+  }
+  #cooking-list fieldset label {
+    display: block;
+    font-size: 30px;
+  }
+  #list-bg {
+    position: absolute;
+    z-index: -1;
+  }
+  #author {
+    float: left;
+  }
+  #author #vannesa {
+    float: left;
+    margin-right: 10px;
+  }
+  #author h3 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .myButton {
+    float: right;
+    box-shadow: inset 0px 1px 3px 0px #E67A73;
+    background: linear-gradient(to bottom, #F2867E 5%, #C7645F 100%);
+    background-color: #F2867E;
+    border-radius: 5px;
+    border: 1px solid #FFFFFF;
+    display: inline;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 17px 37px;
+    text-decoration: none;
+    text-shadow: 0px -1px 0px #C47D78;
+  }
+  .myButton:hover {
+    background: linear-gradient(to bottom, #C7645F 5%, #F2867E 100%);
+    background-color: #C7645F;
+  }
+  .myButton:active {
+    position: relative;
+    top: 1px;
+  }
+  #copy-right {
+    margin-top: 150px;
+    text-align: center;
+  }
+  #copy-right img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+  }
+  #copy-right * {
+    display: block;
+    color: grey;
+  }
